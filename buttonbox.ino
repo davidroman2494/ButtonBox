@@ -1,8 +1,7 @@
 //BUTTON BOX 
 //USE w ProMicro
-//Tested in WIN10 + Assetto Corsa
-//AMSTUDIO
-//20.8.17
+//Tested in WIN11 + Assetto Corsa Competizione
+//
 
 #include <Keypad.h>
 #include <Joystick.h>
